@@ -1,0 +1,10 @@
+# General artifacts
+.DS_Store
+*~
+*.class
+
+# Advent of code
+input.txt
+
+# Codeforces
+Codeforces-Problems
